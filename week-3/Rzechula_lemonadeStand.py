@@ -30,3 +30,21 @@ print("Cost Calculation:", cost_output)
 profit = calculate_profit(lemons_cost, sugar_cost, selling_price)
 profit_output = f"Selling price: ${selling_price:.2f} - Cost: ${total_cost:.2f} = Profit: ${profit:.2f}"
 print("Total Profit: ", profit_output)
+
+"""
+SOURCES:
+[Professor Darrell]. (2020, May 20). Function Returns [Video]. Bellevue University. 
+https://bellevue.mediaspace.kaltura.com/media/Function+Returns/1_3w0ut032
+
+[Professor Darrell]. (2020, May 20). String Variables and String Outputs [Video]. Bellevue University. 
+https://bellevue.mediaspace.kaltura.com/media/String+Variables+and+String+Outputs/1_bd44wtd0
+
+PFB Staff Writer (2023, June 30). Python String Concatenation and Formatting. Retrieved June 19, 2025, from 
+https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python
+
+[Programming With Mosh]. (2020, September 16). Python for Beginners - Learn Coding with Python in 1 Hour [Video]. 
+YouTube. https://www.youtube.com/watch?v=kqtD5dpn9C8&t=361s
+
+GeeksforGeeks (2024, April 24). How to format numbers as currency strings in Python. 
+Retrieved June 19, 2025, from https://www.geeksforgeeks.org/how-to-format-numbers-as-currency-strings-in-python/
+"""
