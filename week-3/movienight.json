@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "viewer01",
+    "firstName": "Rhaseem",
+    "lastName": "Reed"
+  },
+  {
+    "_id": "movie001",
+    "movieName": "Karate Kid: Legends",
+    "genre": "Action/Family"
+  },
+  {
+    "_id": "rating001",
+    "viewerId": "viewer01",
+    "movieId": "movie001",
+    "ratingScore": "10"
+  }
+]
