@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "_id": "user01",
+      "firstName": "Rhaseem",
+      "lastName": "Reed"
+    },
+    {
+      "_id": "user02",
+      "firstName": "Vera",
+      "lastName": "Gilot"
+    }
+  ],
+  "chargers": [
+    {
+      "_id": "charger01",
+      "chargerType": "Lightning",
+      "voltage": 20
+    },
+    {
+      "_id": "charger02",
+      "chargerType": "USB-C",
+      "voltage": 37
+    },
+    {
+      "_id": "charger03",
+      "chargerType": "USB-C",
+      "voltage": 45
+    }
+  ],
+  "devices" : [
+    {
+      "_id": "device01",
+      "deviceName": "iPhone 13 Pro",
+      "deviceType": "Smartphone",
+      "user_id": "user01",
+      "charger_id": "charger01"
+    },
+        {
+      "_id": "device02",
+      "deviceName": "Pixel 9 Pro XL",
+      "deviceType": "Smartphone",
+      "user_id": "user01",
+      "charger_id": "charger02"
+    },
+    {
+      "_id": "device03",
+      "deviceName": "Samsung Galaxy S25 Ultra",
+      "deviceType": "Smartphone",
+      "user_id": "user02",
+      "charger_id": "charger03"
+    }
+  ]
+}
