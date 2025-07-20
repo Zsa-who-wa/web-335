@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+      "bookId": "B001",
+      "title": "",
+      "genre": "",
+      "author": "",
+    },
+    {
+      "bookId": "B001",
+      "title": "",
+      "genre": "",
+      "author": "",
+    }
+  ],
+  "customers": [
+    {
+      "customerId": "C001",
+      "firstName": "Ryesha",
+      "lastName": "Reed",
+    },
+    {
+      "customerId": "C002",
+      "firstName": "Jennifer",
+      "lastName": "Lagerlout",
+    },
+    {
+      "customerId": "C003",
+      "firstName": "Joe",
+      "lastName": "Green",
+    }
+  ],
+  "wishlistitems" : [
+    {
+      "customerId": "C001",
+      "bookId": "B001"
+    },
+    {
+      "customerId": "C002",
+      "bookId": "B002"
+    },
+    {
+      "customerId": "C003",
+      "bookId": "B003"
+    }
+  ]
+}
